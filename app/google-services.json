@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520769276099",
+    "project_id": "advanced-phone-locator",
+    "storage_bucket": "advanced-phone-locator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520769276099:android:6f548f1678121adc28fa76",
+        "android_client_info": {
+          "package_name": "com.example.advancedphonelocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520769276099-r6bquij0foe79uqhuu97v6vsrp7apia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3WlTiOWU7wUnbsLy4PWDbUwngYyRLlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520769276099-r6bquij0foe79uqhuu97v6vsrp7apia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
