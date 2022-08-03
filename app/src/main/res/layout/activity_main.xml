@@ -56,14 +56,22 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Login " />
+            android:text="Login from orignial device" />
+
+        <Button
+            android:id="@+id/btnOtherDevice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TRACK FROM OTHER DEVICE" />
 
         <Button
             android:id="@+id/signinButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Sign in" />
+            android:text="REGISTER DEVICE" />
+
     </LinearLayout>
 
 </LinearLayout>
