@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<User> users = new ArrayList<>();
 
     // Connect to the database
-    FirebaseDatabase database = FirebaseDatabase.getInstance("https://advanced-phone-locator-default-rtdb.firebaseio.com/");
+    FirebaseDatabase database = FirebaseDatabase.getInstance("https://phone-tracker-efaf6-default-rtdb.firebaseio.com/");
     DatabaseReference myRef = database.getReference();
 
     // Defining Permission codes.

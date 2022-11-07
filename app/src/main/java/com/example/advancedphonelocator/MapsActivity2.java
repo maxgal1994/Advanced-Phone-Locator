@@ -60,8 +60,8 @@ public class MapsActivity2 extends FragmentActivity implements OnMapReadyCallbac
         //here we'll need to had recent last latlong from firebase with last time updated + a marker tracker using array of recent 5 latlongs
 
         //this time need to pull from firebase
-        tvTimeDateUpdate.setText("Last Update: "+ "NONE");
-
+//        tvTimeDateUpdate.setText("Last Update: "+ "NONE");
+//
 
         // Add a marker in Sydney and move the camera by default
         LatLng sydney = new LatLng(-34, 151);
